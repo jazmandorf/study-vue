@@ -3,8 +3,8 @@ study vue.js
 start project Nov.17 2018
 
 
-#Vue js
-</ hr>
+# Vue js
+<hr />
 ## 인스턴스와 컴포넌트
 <pre>
 인스턴스와 컴포넌트가 있다.
